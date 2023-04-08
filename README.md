@@ -1,7 +1,7 @@
 # basic_portfolio
 Basic Portfolio
 
-This is a basic portfolio website created using HTML and CSS. The website includes three pages: About page, Github account link, Linkedin account link.
+This is a basic portfolio website created using HTML and CSS. The website includes three pages: About page, Github account link, Linkedin account link. This page is user friendly on laptops, pc's, mobile phones etc..
 
 Getting Started:
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
